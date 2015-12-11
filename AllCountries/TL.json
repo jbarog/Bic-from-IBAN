@@ -1,0 +1,34 @@
+{
+    "country": "Timor Leste",
+    "country_code": "TL",
+    "list": [
+        {
+            "id": "1",
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LTD",
+            "city": "DILI",
+            "branch": null,
+            "swift_code": "ANZBTLDI"
+        },
+        {
+            "id": "2",
+            "bank": "BANKING AND PAYMENTS AUTHORITY OF EAST TIMOR",
+            "city": "DILI",
+            "branch": "(AIM\/POMS SERVICE)",
+            "swift_code": "BCTLTLDA"
+        },
+        {
+            "id": "3",
+            "bank": "BANKING AND PAYMENTS AUTHORITY OF EAST TIMOR",
+            "city": "DILI",
+            "branch": null,
+            "swift_code": "BCTLTLDI"
+        },
+        {
+            "id": "4",
+            "bank": "CAIXA GERAL DE DEPOSITOS, SA",
+            "city": "DILI",
+            "branch": null,
+            "swift_code": "CGDITLDI"
+        }
+    ]
+}

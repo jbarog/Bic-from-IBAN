@@ -1,0 +1,76 @@
+{
+    "country": "Trinidad and Tobago",
+    "country_code": "TT",
+    "list": [
+        {
+            "id": "1",
+            "bank": "AIC SECURITES LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "AICBTTPS"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF BARODA (TRINIDAD AND TOBAGO) LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "BARBTTPS"
+        },
+        {
+            "id": "3",
+            "bank": "CENTRAL BANK OF TRINIDAD AND TOBAGO",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "CBTTTTPS"
+        },
+        {
+            "id": "4",
+            "bank": "CITIBANK (TRINIDAD AND TOBAGO) LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "CITITTPS"
+        },
+        {
+            "id": "5",
+            "bank": "FIRST CITIZENS BANK LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "FCTTTTPS"
+        },
+        {
+            "id": "6",
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (T AND T) LTD.",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "FCIBTTPS"
+        },
+        {
+            "id": "7",
+            "bank": "INTERCOMMERCIAL BANK LIMITED",
+            "city": "CHAGUANAS",
+            "branch": null,
+            "swift_code": "IBLITTPS"
+        },
+        {
+            "id": "8",
+            "bank": "RBC ROYAL BANK (TRINIDAD AND TOBAGO) LIMITED (FORMERLY RBTT BANK LIMITED)",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "RBTTTTPX"
+        },
+        {
+            "id": "9",
+            "bank": "REPUBLIC BANK LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "RBNKTTPX"
+        },
+        {
+            "id": "10",
+            "bank": "SCOTIABANK TRINIDAD AND TOBAGO LTD.",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "NOSCTTPS"
+        }
+    ]
+}

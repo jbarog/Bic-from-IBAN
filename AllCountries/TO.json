@@ -1,0 +1,41 @@
+{
+    "country": "Tonga",
+    "country_code": "TO",
+    "list": [
+        {
+            "id": "1",
+            "bank": "ANZ BANKING GROUP LIMITED",
+            "city": "NUKU'ALOFA",
+            "branch": null,
+            "swift_code": "ANZBTONN"
+        },
+        {
+            "id": "2",
+            "bank": "MBF BANK LIMITED",
+            "city": "NUKU'ALOFA",
+            "branch": null,
+            "swift_code": "MBFMTONU"
+        },
+        {
+            "id": "3",
+            "bank": "NATIONAL RESERVE BANK OF TONGA",
+            "city": "NUKU'ALOFA",
+            "branch": null,
+            "swift_code": "NRBTTONU"
+        },
+        {
+            "id": "4",
+            "bank": "PACIFIC INTERNATIONAL COMMERCIAL BANK",
+            "city": "NUKU'ALOFA",
+            "branch": null,
+            "swift_code": "PICBTONU"
+        },
+        {
+            "id": "5",
+            "bank": "WESTPAC BANK OF TONGA",
+            "city": "NUKU'ALOFA",
+            "branch": null,
+            "swift_code": "BTONTONU"
+        }
+    ]
+}

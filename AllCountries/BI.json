@@ -1,0 +1,83 @@
+{
+    "country": "Burundi",
+    "country_code": "BI",
+    "list": [
+        {
+            "id": "1",
+            "bank": "BANQUE BURUNDAISE POUR LE COMMERCE ET L'INVESTISSEMENT",
+            "city": "BUJUMBURA",
+            "branch": null,
+            "swift_code": "BUCIBIBI"
+        },
+        {
+            "id": "2",
+            "bank": "BANQUE COMMERCIALE DU BURUNDI",
+            "city": "BUJUMBURA",
+            "branch": null,
+            "swift_code": "BCBUBIBI"
+        },
+        {
+            "id": "3",
+            "bank": "BANQUE DE CREDIT DE BUJUMBURA",
+            "city": "BUJUMBURA",
+            "branch": null,
+            "swift_code": "BCRBBIBI"
+        },
+        {
+            "id": "4",
+            "bank": "BANQUE DE GESTION ET DE FINANCEMENT",
+            "city": "BUJUMBURA",
+            "branch": null,
+            "swift_code": "BKGFBIBI"
+        },
+        {
+            "id": "5",
+            "bank": "BANQUE DE LA REPUBLIQUE DU BURUNDI",
+            "city": "BUJUMBURA",
+            "branch": null,
+            "swift_code": "BRBUBIBI"
+        },
+        {
+            "id": "6",
+            "bank": "CRDB BANK BURUNDI S.A",
+            "city": "BUJUMBURA",
+            "branch": null,
+            "swift_code": "CORUBIBU"
+        },
+        {
+            "id": "7",
+            "bank": "DIAMOND TRUST BANK BURUNDI S.A",
+            "city": "BUJUMBURA",
+            "branch": null,
+            "swift_code": "DTKEBIBI"
+        },
+        {
+            "id": "8",
+            "bank": "FINBANK",
+            "city": "BUJUMBURA",
+            "branch": null,
+            "swift_code": "FIKNBIBI"
+        },
+        {
+            "id": "9",
+            "bank": "INTERBANK BURUNDI",
+            "city": "BUJUMBURA",
+            "branch": "(AVENUE DE L'INDUSTRIE BRANCH)",
+            "swift_code": "IBBUBIBIADI"
+        },
+        {
+            "id": "10",
+            "bank": "INTERBANK BURUNDI",
+            "city": "BUJUMBURA",
+            "branch": null,
+            "swift_code": "IBBUBIBI"
+        },
+        {
+            "id": "11",
+            "bank": "KCB BANK BURUNDI LIMITED",
+            "city": "BUJUMBURA",
+            "branch": null,
+            "swift_code": "KCBLBIBI"
+        }
+    ]
+}

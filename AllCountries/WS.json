@@ -1,0 +1,48 @@
+{
+    "country": "Samoa",
+    "country_code": "WS",
+    "list": [
+        {
+            "id": "1",
+            "bank": "ANZ BANK (SAMOA) LTD",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "ANZBWSWW"
+        },
+        {
+            "id": "2",
+            "bank": "CENTRAL BANK OF SAMOA",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "CBSAWSWS"
+        },
+        {
+            "id": "3",
+            "bank": "NATIONAL BANK OF SAMOA LIMITED",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "NBSLWSWS"
+        },
+        {
+            "id": "4",
+            "bank": "PACIFIC TRADE BANK SAMOA",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "PTRMWSWS"
+        },
+        {
+            "id": "5",
+            "bank": "SAMOA COMMERCIAL BANK LIMITED",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "SCOBWSWS"
+        },
+        {
+            "id": "6",
+            "bank": "WESTPAC BANK SAMOA LTD",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "PCOBWSWS"
+        }
+    ]
+}

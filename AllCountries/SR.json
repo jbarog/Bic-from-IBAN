@@ -1,0 +1,90 @@
+{
+    "country": "Suriname",
+    "country_code": "SR",
+    "list": [
+        {
+            "id": "1",
+            "bank": "CENTRALE BANK VAN SURINAME",
+            "city": "PARAMARIBO",
+            "branch": null,
+            "swift_code": "CBVSSRPA"
+        },
+        {
+            "id": "2",
+            "bank": "CENTRALE BANK VAN SURINAME",
+            "city": "PARAMARIBO",
+            "branch": null,
+            "swift_code": "CBVSSRPASUR"
+        },
+        {
+            "id": "3",
+            "bank": "COOPERATIEVE SPAAR-EN KREDIETBANK GODO G.A.",
+            "city": "PARAMARIBO",
+            "branch": null,
+            "swift_code": "GODOSRPA"
+        },
+        {
+            "id": "4",
+            "bank": "DSB BANK ALSO KNOWN AS DE SURINAAMSCHE BANK N.V. PARAMARIBO SR",
+            "city": "PARAMARIBO",
+            "branch": null,
+            "swift_code": "SURBSRPA"
+        },
+        {
+            "id": "5",
+            "bank": "FINABANK N.V.",
+            "city": "PARAMARIBO",
+            "branch": null,
+            "swift_code": "FBNASRPA"
+        },
+        {
+            "id": "6",
+            "bank": "FINATRUST, DE TRUSTBANK N.V.",
+            "city": "PARAMARIBO",
+            "branch": null,
+            "swift_code": "ICTBSRPA"
+        },
+        {
+            "id": "7",
+            "bank": "HAKRINBANK N.V.",
+            "city": "PARAMARIBO",
+            "branch": null,
+            "swift_code": "HAKRSRPA"
+        },
+        {
+            "id": "8",
+            "bank": "LANDBOUWBANK N.V.",
+            "city": "PARAMARIBO",
+            "branch": null,
+            "swift_code": "LBNKSRPA"
+        },
+        {
+            "id": "9",
+            "bank": "RBC ROYAL BANK (SURINAME) N.V. (FORMERLY RBTT BANKSURINAME) N.V.",
+            "city": "PARAMARIBO",
+            "branch": null,
+            "swift_code": "RBTTSRPA"
+        },
+        {
+            "id": "10",
+            "bank": "SURICHANGE BANK N.V.",
+            "city": "PARAMARIBO",
+            "branch": null,
+            "swift_code": "SURCSRPA"
+        },
+        {
+            "id": "11",
+            "bank": "SURINAAMSE POSTSPAARBANK",
+            "city": "PARAMARIBO",
+            "branch": null,
+            "swift_code": "SDPOSRPA"
+        },
+        {
+            "id": "12",
+            "bank": "SURINAAMSE VOLKSCREDIETBANK",
+            "city": "PARAMARIBO",
+            "branch": null,
+            "swift_code": "VCBSSRPA"
+        }
+    ]
+}

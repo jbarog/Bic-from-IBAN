@@ -1,0 +1,69 @@
+{
+    "country": "Vanuatu",
+    "country_code": "VU",
+    "list": [
+        {
+            "id": "1",
+            "bank": "ANZ BANK (VANUATU) LTD",
+            "city": "VILA",
+            "branch": null,
+            "swift_code": "ANZBVUVX"
+        },
+        {
+            "id": "2",
+            "bank": "ASIA MERCHANT BANK LIMITED",
+            "city": "PORT VILA",
+            "branch": null,
+            "swift_code": "AMBVVUVU"
+        },
+        {
+            "id": "3",
+            "bank": "BRED (VANUATU) LTD",
+            "city": "PORT VILA",
+            "branch": null,
+            "swift_code": "BREDVUVU"
+        },
+        {
+            "id": "4",
+            "bank": "MG COMMERCIAL BANK LIMITED",
+            "city": "PORT VILA",
+            "branch": null,
+            "swift_code": "MGCBVUVV"
+        },
+        {
+            "id": "5",
+            "bank": "NATIONAL BANK OF VANUATU LIMITED",
+            "city": "PORT VILA",
+            "branch": null,
+            "swift_code": "NBOVVUVU"
+        },
+        {
+            "id": "6",
+            "bank": "PACIFIC PRIVATE BANK LIMITED",
+            "city": "PORT VILA",
+            "branch": null,
+            "swift_code": "PPBLVUVU"
+        },
+        {
+            "id": "7",
+            "bank": "RESERVE BANK OF VANUATU",
+            "city": "PORT VILA",
+            "branch": null,
+            "swift_code": "RBVAVUVU"
+        },
+        {
+            "id": "8",
+            "bank": "UNITED DEVELOPMENT BANK OF PACIFIC LIMITED",
+            "city": "PORT VILA",
+            "branch": null,
+            "swift_code": "UDBPVUVV"
+        },
+        {
+            "id": "9",
+            "bank": "WESTPAC BANKING CORPORATION",
+            "city": "VILA",
+            "branch": null,
+            "swift_code": "WPACVUVX"
+        }
+    ]
+}

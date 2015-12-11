@@ -1,0 +1,41 @@
+{
+    "country": "Andorra",
+    "country_code": "AD",
+    "list": [
+        {
+            "id": "1",
+            "bank": "ANDORRA BANC AGRICOL REIG S.A.",
+            "city": "LES ESCALDES",
+            "branch": null,
+            "swift_code": "BACAADAD"
+        },
+        {
+            "id": "2",
+            "bank": "BANC SABADELL D'ANDORRA",
+            "city": "ANDORRA LA VELLA",
+            "branch": null,
+            "swift_code": "BSANADAD"
+        },
+        {
+            "id": "3",
+            "bank": "BANCA PRIVADA D'ANDORRA S.A.",
+            "city": "LES ESCALDES",
+            "branch": null,
+            "swift_code": "CASBADAD"
+        },
+        {
+            "id": "4",
+            "bank": "CREDIT ANDORRA",
+            "city": "ANDORRA LA VELLA",
+            "branch": null,
+            "swift_code": "CRDAADAD"
+        },
+        {
+            "id": "5",
+            "bank": "MORA BANC GRUP SA",
+            "city": "ANDORRA LA VELLA",
+            "branch": null,
+            "swift_code": "BINAADAD"
+        }
+    ]
+}

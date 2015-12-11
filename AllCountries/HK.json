@@ -1,0 +1,2848 @@
+{
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "list": [
+        {
+            "id": "1",
+            "bank": "AB INTERNATIONAL FINANCE LTD",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "ABFLHKHH"
+        },
+        {
+            "id": "2",
+            "bank": "ABN AMRO BANK N.V. HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": "(GROUP TREASURY)",
+            "swift_code": "ABNAHKAATRY"
+        },
+        {
+            "id": "3",
+            "bank": "ABN AMRO BANK N.V. HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": "(INTERNATIONAL DIAMOND AND JEWELRY GROUP)",
+            "swift_code": "ABNAHKAAIDJ"
+        },
+        {
+            "id": "4",
+            "bank": "ABN AMRO BANK N.V. HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": "(INTERNATIONAL PRIVATE CLIENTS DEPARTMENT)",
+            "swift_code": "ABNAHKAAIPC"
+        },
+        {
+            "id": "5",
+            "bank": "ABN AMRO BANK N.V. HONG KONG BRANCH",
+            "city": "KOWLOON",
+            "branch": null,
+            "swift_code": "ABNAHKAA"
+        },
+        {
+            "id": "6",
+            "bank": "AGRICULTURAL BANK OF CHINA LIMITED HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "ABOCHKHH"
+        },
+        {
+            "id": "7",
+            "bank": "ALLAHABAD BANK",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "ALLAHKHH"
+        },
+        {
+            "id": "8",
+            "bank": "ALLIANZ GLOBAL INVESTORS HONG KONG LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "THRMHKHH"
+        },
+        {
+            "id": "9",
+            "bank": "ALLIED BANKING CORPORATION (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "ABCHHKHH"
+        },
+        {
+            "id": "10",
+            "bank": "AMERICAN INTERNATIONAL ASSURANCE COMPANY, LIMITED",
+            "city": "WAN CHAI",
+            "branch": null,
+            "swift_code": "AIACHKHC"
+        },
+        {
+            "id": "11",
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LTD",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "ANZBHKHX"
+        },
+        {
+            "id": "12",
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LTD",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "ANZBHKHXAAL"
+        },
+        {
+            "id": "13",
+            "bank": "AXIS BANK LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "AXISHKHH"
+        },
+        {
+            "id": "14",
+            "bank": "BANCA MONTE DEI PASCHI DI SIENA SPA HONG KONG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "PASCHKHH"
+        },
+        {
+            "id": "15",
+            "bank": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A., HONG KONG BRANCH",
+            "city": "KOWLOON",
+            "branch": null,
+            "swift_code": "BBVAHKHH"
+        },
+        {
+            "id": "16",
+            "bank": "BANCO SANTANDER, S.A. HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": "(HEAD OFFICE IN HONG KONG)",
+            "swift_code": "BSCHHKHH"
+        },
+        {
+            "id": "17",
+            "bank": "BANGKOK BANK PUBLIC COMPANY LIMITED HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BKKBHKHH"
+        },
+        {
+            "id": "18",
+            "bank": "BANK CONSORTIUM TRUST COMPANY LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BCTCHKHH"
+        },
+        {
+            "id": "19",
+            "bank": "BANK J. SAFRA SARASIN LTD, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SARAHKHH"
+        },
+        {
+            "id": "20",
+            "bank": "BANK JULIUS BAER AND CO. LTD.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BAERHKHH"
+        },
+        {
+            "id": "21",
+            "bank": "BANK NEGARA INDONESIA (PERSERO) PT.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BNINHKHH"
+        },
+        {
+            "id": "22",
+            "bank": "BANK OF AMERICA, N.A. HONG KONG",
+            "city": "HONG KONG",
+            "branch": "(ASIA AGENCY MANAGEMENT)",
+            "swift_code": "BOFAHKHXAAM"
+        },
+        {
+            "id": "23",
+            "bank": "BANK OF AMERICA, N.A. HONG KONG",
+            "city": "HONG KONG",
+            "branch": "(BOA SECURITIES ASIA)",
+            "swift_code": "BOFAHKHXSWP"
+        },
+        {
+            "id": "24",
+            "bank": "BANK OF AMERICA, N.A. HONG KONG",
+            "city": "HONG KONG",
+            "branch": "(EMERGING MARKETS GROUP)",
+            "swift_code": "BOFAHKHXEMG"
+        },
+        {
+            "id": "25",
+            "bank": "BANK OF AMERICA, N.A. HONG KONG",
+            "city": "HONG KONG",
+            "branch": "(FIXED INCOME OPS)",
+            "swift_code": "BOFAHKHXFIO"
+        },
+        {
+            "id": "26",
+            "bank": "BANK OF AMERICA, N.A. HONG KONG",
+            "city": "HONG KONG",
+            "branch": "(GMG HK-FX)",
+            "swift_code": "BOFAHKHXGMG"
+        },
+        {
+            "id": "27",
+            "bank": "BANK OF AMERICA, N.A. HONG KONG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BOFAHKHX"
+        },
+        {
+            "id": "28",
+            "bank": "BANK OF AMERICA, N.A. HONG KONG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BOFAHKHXSEC"
+        },
+        {
+            "id": "29",
+            "bank": "BANK OF AYUDHYA PUBLIC CO., LTD.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "AYUDHKHH"
+        },
+        {
+            "id": "30",
+            "bank": "BANK OF BARODA, HONG KONG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BOBIHKHH"
+        },
+        {
+            "id": "31",
+            "bank": "BANK OF BARODA, HONG KONG",
+            "city": "KOWLOON",
+            "branch": "(TSIM SHA TSUI, KOWLOON)",
+            "swift_code": "BOBIHKHHTST"
+        },
+        {
+            "id": "32",
+            "bank": "BANK OF CHINA (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": "(CLS CONTROL BRANCH)",
+            "swift_code": "BKCHHKHHCLS"
+        },
+        {
+            "id": "33",
+            "bank": "BANK OF CHINA (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": "(CUSTODY DIVISION)",
+            "swift_code": "BKCHHKHHCSS"
+        },
+        {
+            "id": "34",
+            "bank": "BANK OF CHINA (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": "(RENMINBI CLEARING CENTRE)",
+            "swift_code": "BKCHHKHH838"
+        },
+        {
+            "id": "35",
+            "bank": "BANK OF CHINA (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BKCHHKHH"
+        },
+        {
+            "id": "36",
+            "bank": "BANK OF CHINA INTERNATIONAL LIMITED",
+            "city": "HONG KONG",
+            "branch": "(BOCI FINANCIAL PRODUCTS)",
+            "swift_code": "CDFCHKHHFPX"
+        },
+        {
+            "id": "37",
+            "bank": "BANK OF CHINA INTERNATIONAL LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CDFCHKHH"
+        },
+        {
+            "id": "38",
+            "bank": "BANK OF CHINA LIMITED HONG KONG BR",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BKCHHKHK"
+        },
+        {
+            "id": "39",
+            "bank": "BANK OF COMMUNICATIONS CO., LTD. HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "COMMHKHH"
+        },
+        {
+            "id": "40",
+            "bank": "BANK OF EAST ASIA,LIMITED,THE",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BEASHKHH"
+        },
+        {
+            "id": "41",
+            "bank": "BANK OF INDIA",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BKIDHKHH"
+        },
+        {
+            "id": "42",
+            "bank": "BANK OF MONTREAL",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BOFMHKHH"
+        },
+        {
+            "id": "43",
+            "bank": "BANK OF NOVA SCOTIA, THE",
+            "city": "HONG KONG",
+            "branch": "(SCOTIAMOCATTA)",
+            "swift_code": "NOSCHKHHMOC"
+        },
+        {
+            "id": "44",
+            "bank": "BANK OF NOVA SCOTIA, THE",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "NOSCHKHH"
+        },
+        {
+            "id": "45",
+            "bank": "BANK OF NOVA SCOTIA, THE",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "NOSCHKHHGFI"
+        },
+        {
+            "id": "46",
+            "bank": "BANK OF SHANGHAI (HONG KONG) LTD. HONG KONG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BOSHHKHH"
+        },
+        {
+            "id": "47",
+            "bank": "BANK OF SINGAPORE LIMITED (FORMERLY ING ASIA PRIVATE BANK LIMITED)",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "INGPHKHH"
+        },
+        {
+            "id": "48",
+            "bank": "BANK OF TAIWAN, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BKTWHKHH"
+        },
+        {
+            "id": "49",
+            "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+            "city": "HONG KONG",
+            "branch": "(HONG KONG BRANCH)",
+            "swift_code": "BOTKHKHH"
+        },
+        {
+            "id": "50",
+            "bank": "BANK SINOPAC",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SINOHKHH"
+        },
+        {
+            "id": "51",
+            "bank": "BARCLAYS BANK PLC",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BARCHKHH"
+        },
+        {
+            "id": "52",
+            "bank": "BARCLAYS BANK PLC",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BARCHKHW"
+        },
+        {
+            "id": "53",
+            "bank": "BARCLAYS CAPITAL ASIA LTD",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BZWLHKHH"
+        },
+        {
+            "id": "54",
+            "bank": "BCA FINANCE LTD (SUBSIDIARY OF P.T. BCA)",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CENAHKHR"
+        },
+        {
+            "id": "55",
+            "bank": "BDO UNIBANK, INC.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BNORHKHH"
+        },
+        {
+            "id": "56",
+            "bank": "BNP PARIBAS",
+            "city": "HONG KONG",
+            "branch": "(HONG KONG BRANCH)",
+            "swift_code": "BNPAHKHH"
+        },
+        {
+            "id": "57",
+            "bank": "BNP PARIBAS",
+            "city": "HONG KONG",
+            "branch": "(HONG KONG COMMODITY FINANCE)",
+            "swift_code": "BNPAHKHHGCG"
+        },
+        {
+            "id": "58",
+            "bank": "BNP PARIBAS",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BNPAHKHHCOM"
+        },
+        {
+            "id": "59",
+            "bank": "BNP PARIBAS SECURITIES (ASIA) LTD.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BNPAHKHP"
+        },
+        {
+            "id": "60",
+            "bank": "BNP PARIBAS SECURITIES SERVICES",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "PARBHKHH"
+        },
+        {
+            "id": "61",
+            "bank": "BNP PARIBAS SECURITIES SERVICES",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "PARBHKHHISI"
+        },
+        {
+            "id": "62",
+            "bank": "BNP PARIBAS WEALTH MANAGEMENT, HK BRANCH (FORMERLYKNOWN AS BNP PARIBAS PRIVATE BANK, HK BRANCH)",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BPPBHKHH"
+        },
+        {
+            "id": "63",
+            "bank": "BOC CREDIT CARD (INTERNATIONAL) LTD",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BCCCHKHH"
+        },
+        {
+            "id": "64",
+            "bank": "BOCI COMMODITIES AND FUTURES LTD",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BOCFHKHK"
+        },
+        {
+            "id": "65",
+            "bank": "BOCI SECURITIES LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BOCIHKHH"
+        },
+        {
+            "id": "66",
+            "bank": "BPI INTERNATIONAL FINANCE LTD.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BPIIHKHH"
+        },
+        {
+            "id": "67",
+            "bank": "BROWN BROTHERS HARRIMAN (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BBHCHKHH"
+        },
+        {
+            "id": "68",
+            "bank": "BSI LTD, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BSILHKHK"
+        },
+        {
+            "id": "69",
+            "bank": "C T B AUSTRALIA LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CTBAHKHH"
+        },
+        {
+            "id": "70",
+            "bank": "CANADIAN IMPERIAL BANK OF COMMERCE",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CIBCHKHH"
+        },
+        {
+            "id": "71",
+            "bank": "CANARA BANK HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "IHIFHKHH"
+        },
+        {
+            "id": "72",
+            "bank": "CANTOR FITZGERALD (HONG KONG) CAPITAL MARKETS LIMITED INTERNATIONAL FINANCIAL CENTER",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CFCMHKHH"
+        },
+        {
+            "id": "73",
+            "bank": "CATHAY BANK",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CATHHKHH"
+        },
+        {
+            "id": "74",
+            "bank": "CATHAY UNITED BANK, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "UWCBHKHH"
+        },
+        {
+            "id": "75",
+            "bank": "CCB INTERNATIONAL SECURITIES LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CCNSHKHH"
+        },
+        {
+            "id": "76",
+            "bank": "CHANG HWA COMMERCIAL BANK LTD., HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CCBCHKHH"
+        },
+        {
+            "id": "77",
+            "bank": "CHIBA BANK, LTD., THE, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CHBAHKHH"
+        },
+        {
+            "id": "78",
+            "bank": "CHINA CITIC BANK INTERNATIONAL LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "KWHKHKHH"
+        },
+        {
+            "id": "79",
+            "bank": "CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED",
+            "city": "HONG KONG",
+            "branch": "(COMMERCIAL CLIENT)",
+            "swift_code": "CCBQHKAXCML"
+        },
+        {
+            "id": "80",
+            "bank": "CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED",
+            "city": "HONG KONG",
+            "branch": "(WHOLESALE CLIENT)",
+            "swift_code": "CCBQHKAXWHS"
+        },
+        {
+            "id": "81",
+            "bank": "CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CCBQHKAX"
+        },
+        {
+            "id": "82",
+            "bank": "CHINA CONSTRUCTION BANK CORPORATION",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "PCBCHKHH"
+        },
+        {
+            "id": "83",
+            "bank": "CHINA DEVELOPMENT BANK CORPORATION",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SDBCHKHH"
+        },
+        {
+            "id": "84",
+            "bank": "CHINA EVERBRIGHT BANK (HONG KONG BRANCH)",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "EVERHKHH"
+        },
+        {
+            "id": "85",
+            "bank": "CHINA MERCHANTS BANK, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CMBCHKHH"
+        },
+        {
+            "id": "86",
+            "bank": "CHINA MINSHENG BANKING CORP., LTD.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "MSBCHKHH"
+        },
+        {
+            "id": "87",
+            "bank": "CHIYU BANKING CORP. LTD.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CIYUHKHH"
+        },
+        {
+            "id": "88",
+            "bank": "CHONG HING BANK LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "LCHBHKHH"
+        },
+        {
+            "id": "89",
+            "bank": "CIMB BANK BERHAD HONG KONG BRANCH",
+            "city": "KOWLOON",
+            "branch": null,
+            "swift_code": "CIBBHKHK"
+        },
+        {
+            "id": "90",
+            "bank": "CITIBANK (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CITIHKAX"
+        },
+        {
+            "id": "91",
+            "bank": "CITIBANK N.A.",
+            "city": "HONG KONG",
+            "branch": "(CEA - CECA)",
+            "swift_code": "CITIHKHXCEA"
+        },
+        {
+            "id": "92",
+            "bank": "CITIBANK N.A.",
+            "city": "HONG KONG",
+            "branch": "(CITIBANK HONG KONG EMFX CONFIRMATIONS)",
+            "swift_code": "CITIHKHXEFX"
+        },
+        {
+            "id": "93",
+            "bank": "CITIBANK N.A.",
+            "city": "HONG KONG",
+            "branch": "(CITIBANK HONG KONG PRIVATE LABEL)",
+            "swift_code": "CITIHKHXBAR"
+        },
+        {
+            "id": "94",
+            "bank": "CITIBANK N.A.",
+            "city": "HONG KONG",
+            "branch": "(LCB TRADE)",
+            "swift_code": "CITIHKHXLCB"
+        },
+        {
+            "id": "95",
+            "bank": "CITIBANK N.A.",
+            "city": "HONG KONG",
+            "branch": "(NZ PROCESSING)",
+            "swift_code": "CITIHKHXKIW"
+        },
+        {
+            "id": "96",
+            "bank": "CITIBANK N.A.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CITIHKHX"
+        },
+        {
+            "id": "97",
+            "bank": "CITIBANK N.A.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CITIHKHXPBG"
+        },
+        {
+            "id": "98",
+            "bank": "CITIBANK N.A.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CITIHKHXTLC"
+        },
+        {
+            "id": "99",
+            "bank": "CITIBANK N.A.",
+            "city": "KOWLOON",
+            "branch": "(CFSL REISSUANCE)",
+            "swift_code": "CITIHKHXREI"
+        },
+        {
+            "id": "100",
+            "bank": "CITICORP INTERNATIONAL LTD",
+            "city": "HONG KONG",
+            "branch": "(HONGKONG BABEL)",
+            "swift_code": "CITIHKHCBAB"
+        },
+        {
+            "id": "101",
+            "bank": "CITICORP INTERNATIONAL LTD",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CITIHKHC"
+        },
+        {
+            "id": "102",
+            "bank": "CITIGROUP GLOBAL MARKETS ASIA LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SBHKHKHH"
+        },
+        {
+            "id": "103",
+            "bank": "CLSA LIMITED",
+            "city": "HONG KONG",
+            "branch": "(SETCLEAR PTE LTD ON BEHALF OF BLOOMBERG TRADEBOOK)",
+            "swift_code": "CLSAHKHHTBK"
+        },
+        {
+            "id": "104",
+            "bank": "CLSA LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CLSAHKHH"
+        },
+        {
+            "id": "105",
+            "bank": "COMMERZBANK AG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "COBAHKHX"
+        },
+        {
+            "id": "106",
+            "bank": "COMMONWEALTH BANK OF AUSTRALIA HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CTBAHKHK"
+        },
+        {
+            "id": "107",
+            "bank": "COMMONWEALTH FINANCE CORPORATION LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CWFLHKHH"
+        },
+        {
+            "id": "108",
+            "bank": "COMPUTERSHARE HONG KONG INVESTOR SERVICES LIMITED",
+            "city": "WAN CHAI",
+            "branch": null,
+            "swift_code": "CPUHHKHH"
+        },
+        {
+            "id": "109",
+            "bank": "COUTTS AND CO LTD",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "COUTHKHH"
+        },
+        {
+            "id": "110",
+            "bank": "CREDIT AGRICOLE (SUISSE) SA HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "AGRIHKHX"
+        },
+        {
+            "id": "111",
+            "bank": "CREDIT AGRICOLE CIB",
+            "city": "HONG KONG",
+            "branch": "(COMMODITY)",
+            "swift_code": "CRLYHKHHCOM"
+        },
+        {
+            "id": "112",
+            "bank": "CREDIT AGRICOLE CIB",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CRLYHKHH"
+        },
+        {
+            "id": "113",
+            "bank": "CREDIT SUISSE (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CSFBHKHX"
+        },
+        {
+            "id": "114",
+            "bank": "CREDIT SUISSE AG, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CSHKHKHH"
+        },
+        {
+            "id": "115",
+            "bank": "CREDIT SUISSE SECURITIES (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CSFBHKHE"
+        },
+        {
+            "id": "116",
+            "bank": "CTBC BANK CO.,LTD., HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CTCBHKHH"
+        },
+        {
+            "id": "117",
+            "bank": "DAH SING BANK, LTD.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "DSBAHKHH"
+        },
+        {
+            "id": "118",
+            "bank": "DAIWA CAPITAL MARKETS HONG KONG LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "DWHKHKHH"
+        },
+        {
+            "id": "119",
+            "bank": "DAIWA CAPITAL MARKETS TRADING HONG KONG LIMITED",
+            "city": "HONG KONG",
+            "branch": "(DCM INVESTMENTS ASIA)",
+            "swift_code": "DCMTHKHHAED"
+        },
+        {
+            "id": "120",
+            "bank": "DAIWA CAPITAL MARKETS TRADING HONG KONG LIMITED",
+            "city": "HONG KONG",
+            "branch": "(DCM INVESTMENTS HK)",
+            "swift_code": "DCMTHKHHACW"
+        },
+        {
+            "id": "121",
+            "bank": "DAIWA CAPITAL MARKETS TRADING HONG KONG LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "DCMTHKHH"
+        },
+        {
+            "id": "122",
+            "bank": "DAIWA CAPITAL MARKETS TRADING HONG KONG LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "DCMTHKHHSET"
+        },
+        {
+            "id": "123",
+            "bank": "DBS BANK (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": "(PRIVATE BANKING DEPARTMENT)",
+            "swift_code": "DHBKHKHHPCG"
+        },
+        {
+            "id": "124",
+            "bank": "DBS BANK (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "DHBKHKHH"
+        },
+        {
+            "id": "125",
+            "bank": "DBS BANK LTD, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": "(SECURITIES SERVICES DEPARTMENT)",
+            "swift_code": "DBSSHKHHIBD"
+        },
+        {
+            "id": "126",
+            "bank": "DBS BANK LTD, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "DBSSHKHH"
+        },
+        {
+            "id": "127",
+            "bank": "DELTA ASIA CREDIT LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "DABGHKHH"
+        },
+        {
+            "id": "128",
+            "bank": "DEUTSCHE BANK AG",
+            "city": "HONG KONG",
+            "branch": "(GLOBAL MARKETS OPERATIONS)",
+            "swift_code": "DEUTHKHHGMO"
+        },
+        {
+            "id": "129",
+            "bank": "DEUTSCHE BANK AG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "DEUTHKHH"
+        },
+        {
+            "id": "130",
+            "bank": "DZ BANK HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "GENOHKHH"
+        },
+        {
+            "id": "131",
+            "bank": "E. SUN COMMERCIAL BANK LTD, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "ESUNHKHH"
+        },
+        {
+            "id": "132",
+            "bank": "EAST WEST BANK",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "EWBKHKHH"
+        },
+        {
+            "id": "133",
+            "bank": "EBL FINANCE (HK) LIMITED",
+            "city": "KOWLOON",
+            "branch": null,
+            "swift_code": "EBLDHKHH"
+        },
+        {
+            "id": "134",
+            "bank": "EDMOND DE ROTHSCHILD(SUISSE)SA(HONG-KONG BRANCH)",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "PRIBHKHH"
+        },
+        {
+            "id": "135",
+            "bank": "EFG BANK AG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "EFGBHKHH"
+        },
+        {
+            "id": "136",
+            "bank": "ERSTE GROUP BANK AG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "GIBAHKHH"
+        },
+        {
+            "id": "137",
+            "bank": "FALCON PRIVATE BANK LTD.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "UEBEHKHH"
+        },
+        {
+            "id": "138",
+            "bank": "FAR EASTERN INTERNATIONAL BANK, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "FEINHKHH"
+        },
+        {
+            "id": "139",
+            "bank": "FIRST COMMERCIAL BANK, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "FCBKHKHH"
+        },
+        {
+            "id": "140",
+            "bank": "FUBON BANK (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "IBALHKHH"
+        },
+        {
+            "id": "141",
+            "bank": "GAM HONG KONG LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "GLAMHKHH"
+        },
+        {
+            "id": "142",
+            "bank": "GLOBAL EXCHANGE CENTRE LIMITED",
+            "city": "KOWLOON",
+            "branch": null,
+            "swift_code": "GECGHKHH"
+        },
+        {
+            "id": "143",
+            "bank": "GOLDMAN SACHS (ASIA) FINANCE",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "GOAFHKHX"
+        },
+        {
+            "id": "144",
+            "bank": "GUOSEN SECURITIES (HK) BROKERAGE CO.,LTD",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "GSHKHKHH"
+        },
+        {
+            "id": "145",
+            "bank": "HABIB FINANCE INTERNATIONAL LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HABBHKHH"
+        },
+        {
+            "id": "146",
+            "bank": "HAMON ASSET MANAGEMENT LIMITED",
+            "city": "HONG KONG",
+            "branch": "(AIM\/POMS SERVICE)",
+            "swift_code": "EAHAHKHH"
+        },
+        {
+            "id": "147",
+            "bank": "HANA BANK HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HNBNHKHH"
+        },
+        {
+            "id": "148",
+            "bank": "HANG SENG BANK LIMITED",
+            "city": "HONG KONG",
+            "branch": "(SECURITIES DEPARTMENT)",
+            "swift_code": "HASEHKHHSEC"
+        },
+        {
+            "id": "149",
+            "bank": "HANG SENG BANK LIMITED",
+            "city": "HONG KONG",
+            "branch": "(SETTLEMENT OF CLS PAYMENT)",
+            "swift_code": "HASEHKHHCLS"
+        },
+        {
+            "id": "150",
+            "bank": "HANG SENG BANK LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HASEHKHH"
+        },
+        {
+            "id": "151",
+            "bank": "HBZ FINANCE LIMITED",
+            "city": "HONG KONG",
+            "branch": "(BRANCH)",
+            "swift_code": "HFLIHKHHKTX"
+        },
+        {
+            "id": "152",
+            "bank": "HBZ FINANCE LIMITED",
+            "city": "HONG KONG",
+            "branch": "(KOW LOON BRANCH)",
+            "swift_code": "HFLIHKHHKNX"
+        },
+        {
+            "id": "153",
+            "bank": "HBZ FINANCE LIMITED",
+            "city": "HONG KONG",
+            "branch": "(LAI CHI KOK BRANCH)",
+            "swift_code": "HFLIHKHHKCX"
+        },
+        {
+            "id": "154",
+            "bank": "HBZ FINANCE LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HFLIHKHH"
+        },
+        {
+            "id": "155",
+            "bank": "HDFC BANK LTD",
+            "city": "KOWLOON",
+            "branch": null,
+            "swift_code": "HDFCHKHH"
+        },
+        {
+            "id": "156",
+            "bank": "HKFE CLEARING CORPORATION LIMITED",
+            "city": "HONG KONG",
+            "branch": "(TREASURY DEPARTMENT)",
+            "swift_code": "XHKFHKHHTRE"
+        },
+        {
+            "id": "157",
+            "bank": "HKFE CLEARING CORPORATION LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "XHKFHKHH"
+        },
+        {
+            "id": "158",
+            "bank": "HONG KONG EXCHANGES AND CLEARING LIMITED",
+            "city": "HONG KONG",
+            "branch": "(TREASURY SETTLEMENT)",
+            "swift_code": "HKEXHKHHTRE"
+        },
+        {
+            "id": "159",
+            "bank": "HONG KONG EXCHANGES AND CLEARING LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HKEXHKHH"
+        },
+        {
+            "id": "160",
+            "bank": "HONG KONG INTERBANK CLEARING LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HKICHKHH"
+        },
+        {
+            "id": "161",
+            "bank": "HONG KONG MONETARY AUTHORITY",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HKMAHKHC"
+        },
+        {
+            "id": "162",
+            "bank": "HONG KONG MORTGAGE CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HKMCHKHH"
+        },
+        {
+            "id": "163",
+            "bank": "HONG KONG SAR GOVERNMENT EXCHANGE FUND (HONG KONG MONETARY AUTHORITY)",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HKMAHKHH"
+        },
+        {
+            "id": "164",
+            "bank": "HONG KONG SECURITIES CLEARING COMPANY LIMITED",
+            "city": "HONG KONG",
+            "branch": "(TREASURY SETTLEMENT)",
+            "swift_code": "HKSCHKHHTRE"
+        },
+        {
+            "id": "165",
+            "bank": "HONG KONG SECURITIES CLEARING COMPANY LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HKSCHKHH"
+        },
+        {
+            "id": "166",
+            "bank": "HONG LEONG BANK BERHAD HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": "(ISLAMIC BANKING WINDOW)",
+            "swift_code": "HLBBHKHHIBW"
+        },
+        {
+            "id": "167",
+            "bank": "HONG LEONG BANK BERHAD HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HLBBHKHH"
+        },
+        {
+            "id": "168",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED THE - FUND SERVICES (FORMERLY BANK OF BERMUDA LTD HK)",
+            "city": "HONG KONG",
+            "branch": "(FUND SERVICES-A AND V)",
+            "swift_code": "BBDAHKHXAVS"
+        },
+        {
+            "id": "169",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED THE - FUND SERVICES (FORMERLY BANK OF BERMUDA LTD HK)",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BBDAHKHX"
+        },
+        {
+            "id": "170",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(ALL HK OFFICES AND HEAD OFFICE)",
+            "swift_code": "HSBCHKHHHKH"
+        },
+        {
+            "id": "171",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(ASIAN EQUITY FINANCE)",
+            "swift_code": "HSBCHKHHSBL"
+        },
+        {
+            "id": "172",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(BROKER BACKOFFICE)",
+            "swift_code": "HSBCHKHHBBO"
+        },
+        {
+            "id": "173",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(BUSINESS E-BANKING HONG KONG)",
+            "swift_code": "HSBCHKHHBHX"
+        },
+        {
+            "id": "174",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(CLS DEPARTMENT)",
+            "swift_code": "HSBCHKHHCLS"
+        },
+        {
+            "id": "175",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(COMMERCIAL E-BANKING HONG KONG)",
+            "swift_code": "HSBCHKHHEBD"
+        },
+        {
+            "id": "176",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(FI TRADE UNIT)",
+            "swift_code": "HSBCHKHHFIT"
+        },
+        {
+            "id": "177",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(GLOBAL CUSTODY ASIA PACIFIC)",
+            "swift_code": "HSBCHKHHGCA"
+        },
+        {
+            "id": "178",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(GLOBAL CUSTODY CASH)",
+            "swift_code": "HSBCHKHHGCC"
+        },
+        {
+            "id": "179",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(GLOBAL DIRECT 2)",
+            "swift_code": "HSBCHKHHGD2"
+        },
+        {
+            "id": "180",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(GLOBAL DIRECT)",
+            "swift_code": "HSBCHKHHGDI"
+        },
+        {
+            "id": "181",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(GLOBAL MARKETS CASH MANAGEMENT OPERATIONS)",
+            "swift_code": "HSBCHKHHNOS"
+        },
+        {
+            "id": "182",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(GLOBAL MARKETS EQUITIES OPERATIONS)",
+            "swift_code": "HSBCHKHHIBM"
+        },
+        {
+            "id": "183",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(LOAN AGENCY SYNDICATED FINANCE DEPARTMENT)",
+            "swift_code": "HSBCHKHHLAS"
+        },
+        {
+            "id": "184",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(PCM E-COMMERCE)",
+            "swift_code": "HSBCHKHHPEC"
+        },
+        {
+            "id": "185",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(PRIVATE BANKING DIVISION)",
+            "swift_code": "HSBCHKHHPBD"
+        },
+        {
+            "id": "186",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(PVP DEPARTMENT)",
+            "swift_code": "HSBCHKHHPVP"
+        },
+        {
+            "id": "187",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(SECURITIES DEPARTMENT)",
+            "swift_code": "HSBCHKHHSEC"
+        },
+        {
+            "id": "188",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(TREASURY SERVICE DELIVERY, GLOBAL CUSTODY (ASIA PACIFIC), HSS)",
+            "swift_code": "HSBCHKHHTSD"
+        },
+        {
+            "id": "189",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(TSU BRANCH FOR EXPORT)",
+            "swift_code": "HSBCHKHHEXP"
+        },
+        {
+            "id": "190",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(TSU BRANCH FOR IMPORT)",
+            "swift_code": "HSBCHKHHIMP"
+        },
+        {
+            "id": "191",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": "(USD CLEARING SETTLEMENT INSTITUTION)",
+            "swift_code": "HSBCHKHHUSI"
+        },
+        {
+            "id": "192",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HSBCHKHH"
+        },
+        {
+            "id": "193",
+            "bank": "HSBC BANK USA, HONG KONG BRANCH (FORMERLY REPUBLICNATIONAL BANK OF NEW YORK)",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BLICHKHX"
+        },
+        {
+            "id": "194",
+            "bank": "HSBC BROKING SERVICES (ASIA) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HCBSHKHH"
+        },
+        {
+            "id": "195",
+            "bank": "HSBC GLOBAL ASSET MANAGEMENT HOLDINGS (BAHAMAS) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HSMBHKHH"
+        },
+        {
+            "id": "196",
+            "bank": "HSBC INTERNATIONAL TRUSTEE LTD.",
+            "city": "HONG KONG",
+            "branch": "(FUND SERVICES ASIA)",
+            "swift_code": "HSBCHKHIFSA"
+        },
+        {
+            "id": "197",
+            "bank": "HSBC INTERNATIONAL TRUSTEE LTD.",
+            "city": "HONG KONG",
+            "branch": "(FUND SERVICES DEPT-A AND V)",
+            "swift_code": "HSBCHKHIAVS"
+        },
+        {
+            "id": "198",
+            "bank": "HSBC INTERNATIONAL TRUSTEE LTD.",
+            "city": "HONG KONG",
+            "branch": "(GLOBAL WEALTH SOLUTIONS)",
+            "swift_code": "HSBCHKHIGWS"
+        },
+        {
+            "id": "199",
+            "bank": "HSBC INTERNATIONAL TRUSTEE LTD.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HSBCHKHI"
+        },
+        {
+            "id": "200",
+            "bank": "HSBC INTERNATIONAL TRUSTEE LTD.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HSBCHKHISEL"
+        },
+        {
+            "id": "201",
+            "bank": "HSBC INTERNATIONAL TRUSTEE LTD.",
+            "city": "KOWLOON",
+            "branch": "(REGIONAL SERVICES-ME)",
+            "swift_code": "HSBCHKHIRFA"
+        },
+        {
+            "id": "202",
+            "bank": "HSBC PRIVATE BANK (SUISSE) SA",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BLICHKHK"
+        },
+        {
+            "id": "203",
+            "bank": "HSBC PROVIDENT FUND TRUSTEE (HONG KONG) LTD",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HSBCHKHP"
+        },
+        {
+            "id": "204",
+            "bank": "HSBC SECURITIES (ASIA) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "JCALHKHH"
+        },
+        {
+            "id": "205",
+            "bank": "HSBC TRUSTEE (HONG KONG) LTD.",
+            "city": "HONG KONG",
+            "branch": "(GLOBAL WEALTH SOLUTIONS)",
+            "swift_code": "HSBCHKHTGWS"
+        },
+        {
+            "id": "206",
+            "bank": "HSBC TRUSTEE (HONG KONG) LTD.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HSBCHKHT"
+        },
+        {
+            "id": "207",
+            "bank": "HUA NAN COMMERCIAL BANK LTD.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HNBKHKHH"
+        },
+        {
+            "id": "208",
+            "bank": "ICBC INTERNATIONAL SECURITIES LIMITED",
+            "city": "WAN CHAI",
+            "branch": null,
+            "swift_code": "ICBHHKHH"
+        },
+        {
+            "id": "209",
+            "bank": "ICICI BANK LTD",
+            "city": "HONG KONG",
+            "branch": "(CENTRAL OPERATIONS)",
+            "swift_code": "ICICHKHHCOP"
+        },
+        {
+            "id": "210",
+            "bank": "ICICI BANK LTD",
+            "city": "HONG KONG",
+            "branch": "(CLEARING SERVICES DEPT)",
+            "swift_code": "ICICHKHHCLR"
+        },
+        {
+            "id": "211",
+            "bank": "ICICI BANK LTD",
+            "city": "HONG KONG",
+            "branch": "(GLOBAL TRADE SERVICE UNIT (GTSU))",
+            "swift_code": "ICICHKHHGTS"
+        },
+        {
+            "id": "212",
+            "bank": "ICICI BANK LTD",
+            "city": "HONG KONG",
+            "branch": "(HK RTGS (CHATS))",
+            "swift_code": "ICICHKHHRTG"
+        },
+        {
+            "id": "213",
+            "bank": "ICICI BANK LTD",
+            "city": "HONG KONG",
+            "branch": "(HONG KONG BRANCH)",
+            "swift_code": "ICICHKHH"
+        },
+        {
+            "id": "214",
+            "bank": "ICICI BANK LTD",
+            "city": "HONG KONG",
+            "branch": "(INTL INDIAN OPERATION GROUP (IIOG))",
+            "swift_code": "ICICHKHHIOG"
+        },
+        {
+            "id": "215",
+            "bank": "ICICI BANK LTD",
+            "city": "HONG KONG",
+            "branch": "(LC REIMBURSEMENT DEPT)",
+            "swift_code": "ICICHKHHREM"
+        },
+        {
+            "id": "216",
+            "bank": "ICICI BANK LTD",
+            "city": "HONG KONG",
+            "branch": "(TREASURY MIDDLE OPERATION GROUP (TMOG))",
+            "swift_code": "ICICHKHHTMG"
+        },
+        {
+            "id": "217",
+            "bank": "INDIAN OVERSEAS BANK, HONG KONG",
+            "city": "HONG KONG",
+            "branch": "(TSIM SHA TSUI)",
+            "swift_code": "IOBAHKHHTST"
+        },
+        {
+            "id": "218",
+            "bank": "INDIAN OVERSEAS BANK, HONG KONG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "IOBAHKHH"
+        },
+        {
+            "id": "219",
+            "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ASIA) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "UBHKHKHH"
+        },
+        {
+            "id": "220",
+            "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": "(OVERSEA BANK CARD CENTER)",
+            "swift_code": "ICBKHKHHCCI"
+        },
+        {
+            "id": "221",
+            "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "ICBKHKHH"
+        },
+        {
+            "id": "222",
+            "bank": "INDUSTRIAL BANK CO., LTD. HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "FJIBHKHH"
+        },
+        {
+            "id": "223",
+            "bank": "INDUSTRIAL BANK OF KOREA, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "IBKOHKHH"
+        },
+        {
+            "id": "224",
+            "bank": "INDUSTRIAL BANK OF TAIWAN",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "IBOTHKHH"
+        },
+        {
+            "id": "225",
+            "bank": "ING BANK N.V.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "INGBHKHH"
+        },
+        {
+            "id": "226",
+            "bank": "INSTINET PACIFIC LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "ISNTHKHH"
+        },
+        {
+            "id": "227",
+            "bank": "INTESA SANPAOLO SPA HONG KONG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BCITHKHH"
+        },
+        {
+            "id": "228",
+            "bank": "JPMORGAN CHASE BANK, N.A., HONG KONG BR.",
+            "city": "HONG KONG",
+            "branch": "(DIRECT CUSTODY AND CLEARING, JPMC HK)",
+            "swift_code": "CHASHKHHDCC"
+        },
+        {
+            "id": "229",
+            "bank": "JPMORGAN CHASE BANK, N.A., HONG KONG BR.",
+            "city": "HONG KONG",
+            "branch": "(JPMORGAN BROKING - HONG KONG)",
+            "swift_code": "CHASHKHHBHK"
+        },
+        {
+            "id": "230",
+            "bank": "JPMORGAN CHASE BANK, N.A., HONG KONG BR.",
+            "city": "HONG KONG",
+            "branch": "(LOANS AND DEPOSITS SERVICES)",
+            "swift_code": "CHASHKHHLND"
+        },
+        {
+            "id": "231",
+            "bank": "JPMORGAN CHASE BANK, N.A., HONG KONG BR.",
+            "city": "HONG KONG",
+            "branch": "(MONEY TRANSFER SERVICES)",
+            "swift_code": "CHASHKHHMTS"
+        },
+        {
+            "id": "232",
+            "bank": "JPMORGAN CHASE BANK, N.A., HONG KONG BR.",
+            "city": "HONG KONG",
+            "branch": "(OIE - WSS MHR)",
+            "swift_code": "CHASHKHHOIE"
+        },
+        {
+            "id": "233",
+            "bank": "JPMORGAN CHASE BANK, N.A., HONG KONG BR.",
+            "city": "HONG KONG",
+            "branch": "(PBI SYSTEM IMPLEMENTATION)",
+            "swift_code": "CHASHKHHPBI"
+        },
+        {
+            "id": "234",
+            "bank": "JPMORGAN CHASE BANK, N.A., HONG KONG BR.",
+            "city": "HONG KONG",
+            "branch": "(TEST KEY AND BKE ADMINISTRATION)",
+            "swift_code": "CHASHKHHKEY"
+        },
+        {
+            "id": "235",
+            "bank": "JPMORGAN CHASE BANK, N.A., HONG KONG BR.",
+            "city": "HONG KONG",
+            "branch": "(TRADE SERVICES)",
+            "swift_code": "CHASHKHHTSD"
+        },
+        {
+            "id": "236",
+            "bank": "JPMORGAN CHASE BANK, N.A., HONG KONG BR.",
+            "city": "HONG KONG",
+            "branch": "(TRADING\/TREASURY OPERATIONS)",
+            "swift_code": "CHASHKHHTRO"
+        },
+        {
+            "id": "237",
+            "bank": "JPMORGAN CHASE BANK, N.A., HONG KONG BR.",
+            "city": "HONG KONG",
+            "branch": "(TSU BRANCH)",
+            "swift_code": "CHASHKHHDEV"
+        },
+        {
+            "id": "238",
+            "bank": "JPMORGAN CHASE BANK, N.A., HONG KONG BR.",
+            "city": "HONG KONG",
+            "branch": "(TSU BRANCH)",
+            "swift_code": "CHASHKHHQAC"
+        },
+        {
+            "id": "239",
+            "bank": "JPMORGAN CHASE BANK, N.A., HONG KONG BR.",
+            "city": "HONG KONG",
+            "branch": "(TSU BRANCH)",
+            "swift_code": "CHASHKHHUAT"
+        },
+        {
+            "id": "240",
+            "bank": "JPMORGAN CHASE BANK, N.A., HONG KONG BR.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CHASHKHH"
+        },
+        {
+            "id": "241",
+            "bank": "JPMORGAN CHASE BANK,N.A., HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CHASHKHP"
+        },
+        {
+            "id": "242",
+            "bank": "JPMORGAN SECURITIES (ASIA PACIFIC)",
+            "city": "HONG KONG",
+            "branch": "(FOREIGN SETTLEMENT)",
+            "swift_code": "CHASHKALFOP"
+        },
+        {
+            "id": "243",
+            "bank": "JPMORGAN SECURITIES (ASIA PACIFIC)",
+            "city": "HONG KONG",
+            "branch": "(LOCAL SETTLEMENT)",
+            "swift_code": "CHASHKALHOP"
+        },
+        {
+            "id": "244",
+            "bank": "JPMORGAN SECURITIES (ASIA PACIFIC)",
+            "city": "HONG KONG",
+            "branch": "(NOMINEES DEPARTMENT)",
+            "swift_code": "CHASHKALNOM"
+        },
+        {
+            "id": "245",
+            "bank": "JPMORGAN SECURITIES (ASIA PACIFIC)",
+            "city": "HONG KONG",
+            "branch": "(TEST KEY AND BKE ADMINISTRATION)",
+            "swift_code": "CHASHKALKEY"
+        },
+        {
+            "id": "246",
+            "bank": "JPMORGAN SECURITIES (ASIA PACIFIC)",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CHASHKAL"
+        },
+        {
+            "id": "247",
+            "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "KASIHKHH"
+        },
+        {
+            "id": "248",
+            "bank": "KBC BANK NV, HONG KONG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "KREDHKHX"
+        },
+        {
+            "id": "249",
+            "bank": "KBC FINANCIAL PRODUCTS HONG KONG LIMITED",
+            "city": "HONG KONG",
+            "branch": "(INVESTMENTS ASIA)",
+            "swift_code": "KBCFHKHHIAI"
+        },
+        {
+            "id": "250",
+            "bank": "KBC FINANCIAL PRODUCTS HONG KONG LIMITED",
+            "city": "HONG KONG",
+            "branch": "(INVESTMENTS)",
+            "swift_code": "KBCFHKHHINV"
+        },
+        {
+            "id": "251",
+            "bank": "KBC FINANCIAL PRODUCTS HONG KONG LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "KBCFHKHH"
+        },
+        {
+            "id": "252",
+            "bank": "KDB ASIA LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "KODBHKHH"
+        },
+        {
+            "id": "253",
+            "bank": "KEB ASIA FINANCE LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "KOEXHKHA"
+        },
+        {
+            "id": "254",
+            "bank": "KOOKMIN BANK HONG KONG LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "KHBAHKHH"
+        },
+        {
+            "id": "255",
+            "bank": "KOREA EXCHANGE BANK",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "KOEXHKHH"
+        },
+        {
+            "id": "256",
+            "bank": "LAND BANK OF TAIWAN CO., LTD. HONG KONG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "LBOTHKHH"
+        },
+        {
+            "id": "257",
+            "bank": "LGT BANK AG, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BLFLHKHH"
+        },
+        {
+            "id": "258",
+            "bank": "LLOYD GEORGE MANAGEMENT (HONG KONG) LTD",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "LGMHHKHH"
+        },
+        {
+            "id": "259",
+            "bank": "LLOYDS BANK PLC, HONG KONG",
+            "city": "HONG KONG",
+            "branch": "(HONG KONG BRANCH)",
+            "swift_code": "LOYDHKHH"
+        },
+        {
+            "id": "260",
+            "bank": "MACQUARIE BANK LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "MACQHKHH"
+        },
+        {
+            "id": "261",
+            "bank": "MACQUARIE BANK LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "MACQHKHHCSH"
+        },
+        {
+            "id": "262",
+            "bank": "MACQUARIE CAPITAL SECURITIES LIMITED",
+            "city": "HONG KONG",
+            "branch": "(HONG KONG MARKET TRADES)",
+            "swift_code": "BSHLHKHHHKM"
+        },
+        {
+            "id": "263",
+            "bank": "MACQUARIE CAPITAL SECURITIES LIMITED",
+            "city": "HONG KONG",
+            "branch": "(PMMKR AGENCY TRADE)",
+            "swift_code": "BSHLHKHHKRW"
+        },
+        {
+            "id": "264",
+            "bank": "MACQUARIE CAPITAL SECURITIES LIMITED",
+            "city": "HONG KONG",
+            "branch": "(PMMKR EQUITY FINANCE)",
+            "swift_code": "BSHLHKHHKEF"
+        },
+        {
+            "id": "265",
+            "bank": "MACQUARIE CAPITAL SECURITIES LIMITED",
+            "city": "HONG KONG",
+            "branch": "(STOCK B\/L ACTIVITIES)",
+            "swift_code": "BSHLHKHHSGM"
+        },
+        {
+            "id": "266",
+            "bank": "MACQUARIE CAPITAL SECURITIES LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BSHLHKHH"
+        },
+        {
+            "id": "267",
+            "bank": "MACQUARIE CAPITAL SECURITIES LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BSHLHKHHSBL"
+        },
+        {
+            "id": "268",
+            "bank": "MACQUARIE CAPITAL SECURITIES LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BSHLHKHHTHA"
+        },
+        {
+            "id": "269",
+            "bank": "MASHREQBANK PSC., HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": "(HONG KONG BRANCH)",
+            "swift_code": "MSHQHKHHHKD"
+        },
+        {
+            "id": "270",
+            "bank": "MASHREQBANK PSC., HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": "(HONG KONG BRANCH)",
+            "swift_code": "MSHQHKHHHKH"
+        },
+        {
+            "id": "271",
+            "bank": "MASHREQBANK PSC., HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "MSHQHKHH"
+        },
+        {
+            "id": "272",
+            "bank": "MAYBANK HONG KONG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "MBBEHKHH"
+        },
+        {
+            "id": "273",
+            "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD., HONGKONG BRANCH",
+            "city": "KOWLOON",
+            "branch": null,
+            "swift_code": "ICBCHKHH"
+        },
+        {
+            "id": "274",
+            "bank": "MERRILL LYNCH FAR EAST LTD.",
+            "city": "HONG KONG",
+            "branch": "(ASIA APR GLOSS TO UNAVISTA)",
+            "swift_code": "MLFEHKHHAUV"
+        },
+        {
+            "id": "275",
+            "bank": "MERRILL LYNCH FAR EAST LTD.",
+            "city": "HONG KONG",
+            "branch": "(GLO INTERFACE DEPARTEMENT)",
+            "swift_code": "MLFEHKHHGLO"
+        },
+        {
+            "id": "276",
+            "bank": "MERRILL LYNCH FAR EAST LTD.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "MLFEHKHH"
+        },
+        {
+            "id": "277",
+            "bank": "MGB METRO GROUP BUYING HK LIMITED",
+            "city": "KOWLOON",
+            "branch": null,
+            "swift_code": "MGBHHKHH"
+        },
+        {
+            "id": "278",
+            "bank": "MITSUBISHI UFJ SECURITIES (HK), LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "MFHKHKHH"
+        },
+        {
+            "id": "279",
+            "bank": "MITSUBISHI UFJ TRUST AND BANKING CORPORATION",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "MTBCHKHH"
+        },
+        {
+            "id": "280",
+            "bank": "MIZUHO BANK, LTD. HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": "(LCH CLIENT CLEARING)",
+            "swift_code": "MHCBHKHHFCM"
+        },
+        {
+            "id": "281",
+            "bank": "MIZUHO BANK, LTD. HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "MHCBHKHH"
+        },
+        {
+            "id": "282",
+            "bank": "MIZUHO SECURITIES ASIA LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "MHSCHKHH"
+        },
+        {
+            "id": "283",
+            "bank": "MONEYSWAP EXCHANGE LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SWAPHKHH"
+        },
+        {
+            "id": "284",
+            "bank": "MORGAN STANLEY ASIA LIMITED",
+            "city": "HONG KONG",
+            "branch": "(FOREIGN EXCHANGE OPERATIONS)",
+            "swift_code": "MSHKHKHXFXO"
+        },
+        {
+            "id": "285",
+            "bank": "MORGAN STANLEY ASIA LIMITED",
+            "city": "HONG KONG",
+            "branch": "(GLOBAL PAYROLL)",
+            "swift_code": "MSHKHKHXGPR"
+        },
+        {
+            "id": "286",
+            "bank": "MORGAN STANLEY ASIA LIMITED",
+            "city": "HONG KONG",
+            "branch": "(INSTITUTIONAL EQUITY DIVISION)",
+            "swift_code": "MSHKHKHXSGX"
+        },
+        {
+            "id": "287",
+            "bank": "MORGAN STANLEY ASIA LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "MSHKHKHX"
+        },
+        {
+            "id": "288",
+            "bank": "MORGAN STANLEY ASIA LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "MSHKHKHXCLS"
+        },
+        {
+            "id": "289",
+            "bank": "NANYANG COMMERCIAL BANK LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "NYCBHKHH"
+        },
+        {
+            "id": "290",
+            "bank": "NATIONAL AUSTRALIA BANK LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "NATAHKHH"
+        },
+        {
+            "id": "291",
+            "bank": "NATIONAL BANK OF ABU DHABI",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "NBADHKHH"
+        },
+        {
+            "id": "292",
+            "bank": "NATIONAL BANK OF PAKISTAN HONG KONG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "NBPAHKHH"
+        },
+        {
+            "id": "293",
+            "bank": "NATIONAL BANK OF PAKISTAN HONG KONG",
+            "city": "KOWLOON",
+            "branch": "(KOWLOON BRANCH)",
+            "swift_code": "NBPAHKHHKLN"
+        },
+        {
+            "id": "294",
+            "bank": "NATIXIS (FORMERLY NATEXIS BANQUES POPULAIRES)",
+            "city": "KOWLOON",
+            "branch": null,
+            "swift_code": "NATXHKHX"
+        },
+        {
+            "id": "295",
+            "bank": "NEWEDGE GROUP (HONG KONG BRANCH)",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "NEWGHKHH"
+        },
+        {
+            "id": "296",
+            "bank": "NOBLE GROUP LTD",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "NOBGHKHH"
+        },
+        {
+            "id": "297",
+            "bank": "NOMURA ASSET MANAGEMENT HONK KONG LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "NOMAHKHH"
+        },
+        {
+            "id": "298",
+            "bank": "NOMURA INTERNATIONAL (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "NOMHHKHH"
+        },
+        {
+            "id": "299",
+            "bank": "OCBC WING HANG BANK LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "WIHBHKHH"
+        },
+        {
+            "id": "300",
+            "bank": "ORIX ASIA LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "ORIAHKHA"
+        },
+        {
+            "id": "301",
+            "bank": "OTC CLEARING HONG KONG LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "OCCPHKHH"
+        },
+        {
+            "id": "302",
+            "bank": "OTC CLEARING HONG KONG LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "OCCPHKHHTRE"
+        },
+        {
+            "id": "303",
+            "bank": "OVERSEA-CHINESE BANKING CORPORATION LIMITED, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "OCBCHKHH"
+        },
+        {
+            "id": "304",
+            "bank": "PACIFIC EAGLE ASSET MANAGEMENT LTD",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "PEAGHKHK"
+        },
+        {
+            "id": "305",
+            "bank": "PBL FINANCE (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "PRBLHKHH"
+        },
+        {
+            "id": "306",
+            "bank": "PHILIPPINE NATIONAL BANK",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "PNBMHKHH"
+        },
+        {
+            "id": "307",
+            "bank": "PICTET AND CIE (EUROPE) S.A. HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "PICTHKHH"
+        },
+        {
+            "id": "308",
+            "bank": "PORTIGON AG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "WELAHKHX"
+        },
+        {
+            "id": "309",
+            "bank": "PT BANK MANDIRI (PERSERO) HK BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BMRIHKHH"
+        },
+        {
+            "id": "310",
+            "bank": "PUBLIC BANK (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CBHKHKHH"
+        },
+        {
+            "id": "311",
+            "bank": "PUNJAB NATIONAL BANK",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "PUNBHKHH"
+        },
+        {
+            "id": "312",
+            "bank": "RABOBANK, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "RABOHKHH"
+        },
+        {
+            "id": "313",
+            "bank": "RAIFFEISEN BANK INTERNATIONAL AG HONGKONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "RZBAHKHB"
+        },
+        {
+            "id": "314",
+            "bank": "RB INTERNATIONAL FINANCE (HONG KONG) LIMITED (FORMERLY KNOWN AS'RZB AUSTRIA FINANCE (HONG KONG) LIMITED')",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "RZBAHKHH"
+        },
+        {
+            "id": "315",
+            "bank": "RBC CAPITAL MARKETS (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "RBDSHKHH"
+        },
+        {
+            "id": "316",
+            "bank": "RBC INVESTOR SERVICES TRUST HONG KONG LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BILLHKHT"
+        },
+        {
+            "id": "317",
+            "bank": "RBS ASIA LTD",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HGASHKHH"
+        },
+        {
+            "id": "318",
+            "bank": "ROYAL BANK OF CANADA",
+            "city": "HONG KONG",
+            "branch": "(RBC INVESTMENT SERVICES (ASIA) LTD)",
+            "swift_code": "ROYCHKHHISA"
+        },
+        {
+            "id": "319",
+            "bank": "ROYAL BANK OF CANADA",
+            "city": "HONG KONG",
+            "branch": "(WEALTH MANAGEMENT)",
+            "swift_code": "ROYCHKHHPBB"
+        },
+        {
+            "id": "320",
+            "bank": "ROYAL BANK OF CANADA",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "ROYCHKHH"
+        },
+        {
+            "id": "321",
+            "bank": "ROYAL BANK OF SCOTLAND PLC",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "RBOSHKHX"
+        },
+        {
+            "id": "322",
+            "bank": "SAFE INVESTMENT COMPANY LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "PBOCHKHH"
+        },
+        {
+            "id": "323",
+            "bank": "SCOTIABANK (HONG KONG) LTD",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "NOSCHKH2"
+        },
+        {
+            "id": "324",
+            "bank": "SEHK OPTIONS CLEARING HOUSE LIMITED,THE",
+            "city": "HONG KONG",
+            "branch": "(TREASURY)",
+            "swift_code": "SEOCHKHHTRE"
+        },
+        {
+            "id": "325",
+            "bank": "SEHK OPTIONS CLEARING HOUSE LIMITED,THE",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SEOCHKHH"
+        },
+        {
+            "id": "326",
+            "bank": "SG SECURITIES (HK) LIMITED",
+            "city": "HONG KONG",
+            "branch": "(BENGALORE - ACFI ACTIVITY FOR SG SECURITIES HKG)",
+            "swift_code": "SGSEHKHHGSC"
+        },
+        {
+            "id": "327",
+            "bank": "SG SECURITIES (HK) LIMITED",
+            "city": "HONG KONG",
+            "branch": "(HK ACFI ACTIVITY FOR SG SECURITIES)",
+            "swift_code": "SGSEHKHHHKA"
+        },
+        {
+            "id": "328",
+            "bank": "SG SECURITIES (HK) LIMITED",
+            "city": "HONG KONG",
+            "branch": "(HK HR ACTIVITY FOR SG SECURITIES)",
+            "swift_code": "SGSEHKHHHHR"
+        },
+        {
+            "id": "329",
+            "bank": "SG SECURITIES (HK) LIMITED",
+            "city": "HONG KONG",
+            "branch": "(HK OPER ACTIVITY FOR SG SECURITIES)",
+            "swift_code": "SGSEHKHHHKO"
+        },
+        {
+            "id": "330",
+            "bank": "SG SECURITIES (HK) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SGSEHKHH"
+        },
+        {
+            "id": "331",
+            "bank": "SHANGHAI COMMERCIAL BANK LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SCBKHKHH"
+        },
+        {
+            "id": "332",
+            "bank": "SHANGHAI PUDONG DEVELOPMENT BANK HONGKONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SPDBHKHH"
+        },
+        {
+            "id": "333",
+            "bank": "SHINHAN ASIA LTD.",
+            "city": "KOWLOON",
+            "branch": null,
+            "swift_code": "SHBKHKHH"
+        },
+        {
+            "id": "334",
+            "bank": "SHINHAN BANK, HONG KONG BRANCH",
+            "city": "KOWLOON",
+            "branch": null,
+            "swift_code": "SHBKHKHX"
+        },
+        {
+            "id": "335",
+            "bank": "SIAM COMMERCIAL BANK PCL,THE",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SICOHKHH"
+        },
+        {
+            "id": "336",
+            "bank": "SKANDINAVISKA ENSKILDA BANKEN AB",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "ESSEHKHH"
+        },
+        {
+            "id": "337",
+            "bank": "SMBC NIKKO SECURITIES(HONG KONG) LIMITED",
+            "city": "WAN CHAI",
+            "branch": null,
+            "swift_code": "NKSCHKHH"
+        },
+        {
+            "id": "338",
+            "bank": "SOCIETE GENERALE BANK AND TRUST, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SGBTHKHH"
+        },
+        {
+            "id": "339",
+            "bank": "SOCIETE GENERALE, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SOGEHKHH"
+        },
+        {
+            "id": "340",
+            "bank": "STANDARD BANK PLC, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SBLLHKHH"
+        },
+        {
+            "id": "341",
+            "bank": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": "(FM ASSET SERVICING)",
+            "swift_code": "SCBLHKHHZOP"
+        },
+        {
+            "id": "342",
+            "bank": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": "(HK SECURITIES DIVISION)",
+            "swift_code": "SCBLHKHHZHS"
+        },
+        {
+            "id": "343",
+            "bank": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": "(HONG KONG PRIVATE BANK)",
+            "swift_code": "SCBLHKHHZPB"
+        },
+        {
+            "id": "344",
+            "bank": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": "(MAC BRANCH)",
+            "swift_code": "SCBLHKHHMAC"
+        },
+        {
+            "id": "345",
+            "bank": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": "(SECURITIES DIVISION)",
+            "swift_code": "SCBLHKHHZSS"
+        },
+        {
+            "id": "346",
+            "bank": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": "(WEALTH MANAGEMENT)",
+            "swift_code": "SCBLHKHHWHK"
+        },
+        {
+            "id": "347",
+            "bank": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SCBLHKHH"
+        },
+        {
+            "id": "348",
+            "bank": "STATE BANK OF INDIA",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SBINHKHH"
+        },
+        {
+            "id": "349",
+            "bank": "STATE BANK OF INDIA",
+            "city": "KOWLOON",
+            "branch": "(KOWLOON BRANCH)",
+            "swift_code": "SBINHKHH077"
+        },
+        {
+            "id": "350",
+            "bank": "STATE STREET BANK AND TRUST COMPANY, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": "(GLOBAL CUSTODY DIVISION)",
+            "swift_code": "SBOSHKHXAGC"
+        },
+        {
+            "id": "351",
+            "bank": "STATE STREET BANK AND TRUST COMPANY, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SBOSHKHX"
+        },
+        {
+            "id": "352",
+            "bank": "SUMITOMO MITSUI BANKING CORPORATION",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SMBCHKHH"
+        },
+        {
+            "id": "353",
+            "bank": "SUMITOMO MITSUI TRUST BANK, LIMITED (HONG KONG BRANCH)",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "STBCHKHH"
+        },
+        {
+            "id": "354",
+            "bank": "SVENSKA HANDELSBANKEN HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HANDHKHH"
+        },
+        {
+            "id": "355",
+            "bank": "SWIFT",
+            "city": "HONG KONG",
+            "branch": "(EDUCATION DEPARTMENT)",
+            "swift_code": "SWHQHKHHEDU"
+        },
+        {
+            "id": "356",
+            "bank": "SWIFT",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SWHQHKHH"
+        },
+        {
+            "id": "357",
+            "bank": "SWIFT CUSTOMER SERVICE CENTRE HONG KONG",
+            "city": "CUSTOMER SERVICE CENTRE HK",
+            "branch": "(ORDERING AND BILLING SERVICES)",
+            "swift_code": "SWHQHKHKSVC"
+        },
+        {
+            "id": "358",
+            "bank": "SWIFT CUSTOMER SERVICE CENTRE HONG KONG",
+            "city": "CUSTOMER SERVICE CENTRE HK",
+            "branch": null,
+            "swift_code": "SWHQHKHK"
+        },
+        {
+            "id": "359",
+            "bank": "SWISS REINSURANCE COMPANY, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SWREHKHH"
+        },
+        {
+            "id": "360",
+            "bank": "TA CHONG BANK LTD. HONG KONG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "OURBHKHH"
+        },
+        {
+            "id": "361",
+            "bank": "TAI SANG BANK LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "TSBLHKHH"
+        },
+        {
+            "id": "362",
+            "bank": "TAI YAU BANK LIMITED",
+            "city": "WAN CHAI",
+            "branch": null,
+            "swift_code": "TYBLHKKW"
+        },
+        {
+            "id": "363",
+            "bank": "TAIPEI FUBON COMMERCIAL BANK CO., LTD. HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "TPBKHKHH"
+        },
+        {
+            "id": "364",
+            "bank": "TAISHIN INTERNATIONAL BANK HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "TSIBHKHH"
+        },
+        {
+            "id": "365",
+            "bank": "TAIWAN BUSINESS BANK HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "MBBTHKHH"
+        },
+        {
+            "id": "366",
+            "bank": "TAIWAN COOPERATIVE BANK, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "TACBHKHH"
+        },
+        {
+            "id": "367",
+            "bank": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD., HONG KONG BRANCH",
+            "city": "KOWLOON",
+            "branch": null,
+            "swift_code": "MKTBHKHH"
+        },
+        {
+            "id": "368",
+            "bank": "THE BANK OF NEW YORK MELLON, HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "IRVTHKHX"
+        },
+        {
+            "id": "369",
+            "bank": "THE CHUGOKU BANK LIMITED HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "CHGKHKHH"
+        },
+        {
+            "id": "370",
+            "bank": "THE HACHIJUNI BANK, LTD. HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HABKHKHH"
+        },
+        {
+            "id": "371",
+            "bank": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
+            "city": "HONG KONG",
+            "branch": "(INVESTOR SERVICES)",
+            "swift_code": "BTFEHKHHISD"
+        },
+        {
+            "id": "372",
+            "bank": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
+            "city": "HONG KONG",
+            "branch": "(RETIREMENT SCHEMES)",
+            "swift_code": "BTFEHKHHRTS"
+        },
+        {
+            "id": "373",
+            "bank": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BTFEHKHH"
+        },
+        {
+            "id": "374",
+            "bank": "THE IYO BANK, LTD. HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "IYOBHKHH"
+        },
+        {
+            "id": "375",
+            "bank": "THE ROYAL BANK OF SCOTLAND N.V. (HONGKONG)",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "RBOSHKAV"
+        },
+        {
+            "id": "376",
+            "bank": "THE ROYAL BANK OF SCOTLAND PLC, HONG KONG BRANCH (FORMERLY KNOWN AS RBS NV)",
+            "city": "HONG KONG",
+            "branch": "(SECURITIES TRADING)",
+            "swift_code": "ABNAHKHHAAA"
+        },
+        {
+            "id": "377",
+            "bank": "THE ROYAL BANK OF SCOTLAND PLC, HONG KONG BRANCH (FORMERLY KNOWN AS RBS NV)",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "ABNAHKHH"
+        },
+        {
+            "id": "378",
+            "bank": "THE SHANGHAI COMMERCIAL AND SAVINGS BANK LTD.HK BR.",
+            "city": "KOWLOON",
+            "branch": null,
+            "swift_code": "SCSBHKHH"
+        },
+        {
+            "id": "379",
+            "bank": "THE SHIGA BANK, LTD., HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SIGAHKHH"
+        },
+        {
+            "id": "380",
+            "bank": "THE SHIZUOKA BANK, LTD., HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "SHIZHKHH"
+        },
+        {
+            "id": "381",
+            "bank": "THE STOCK EXCHANGE OF HONG KONG LTD",
+            "city": "HONG KONG",
+            "branch": "(TREASURY)",
+            "swift_code": "XHKGHKHHTRE"
+        },
+        {
+            "id": "382",
+            "bank": "THE STOCK EXCHANGE OF HONG KONG LTD",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "XHKGHKHH"
+        },
+        {
+            "id": "383",
+            "bank": "TORONTO DOMINION BANK",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "TDOMHKHH"
+        },
+        {
+            "id": "384",
+            "bank": "UBAF (HONG KONG) LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "UBAFHKHX"
+        },
+        {
+            "id": "385",
+            "bank": "UBS AG HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": "(CLS BUSINESS ONLY)",
+            "swift_code": "UBSWHKHHCLS"
+        },
+        {
+            "id": "386",
+            "bank": "UBS AG HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": "(HONG KONG BRANCH)",
+            "swift_code": "UBSWHKHH"
+        },
+        {
+            "id": "387",
+            "bank": "UBS AG HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": "(SWIFT FOR CORPORATE)",
+            "swift_code": "UBSWHKHHCIC"
+        },
+        {
+            "id": "388",
+            "bank": "UBS SECURITIES ASIA LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "UBSWHKH2"
+        },
+        {
+            "id": "389",
+            "bank": "UCO BANK",
+            "city": "HONG KONG",
+            "branch": "(KOWLOON BRANCH)",
+            "swift_code": "UCBAHKHHKLN"
+        },
+        {
+            "id": "390",
+            "bank": "UCO BANK",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "UCBAHKHH"
+        },
+        {
+            "id": "391",
+            "bank": "UNICREDIT BANK AG HONG KONG BRANCH (HYPOVEREINSBANK HONG KONG BRANCH)",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BVBEHKHH"
+        },
+        {
+            "id": "392",
+            "bank": "UNION BANK OF INDIA",
+            "city": "HONG KONG",
+            "branch": "(HONGKONG BRANCH)",
+            "swift_code": "UBINHKHH"
+        },
+        {
+            "id": "393",
+            "bank": "UNION BANK OF INDIA",
+            "city": "HONG KONG",
+            "branch": "(HONGKONG LCR)",
+            "swift_code": "UBINHKHHLCR"
+        },
+        {
+            "id": "394",
+            "bank": "UNITED OVERSEAS BANK LTD HONG KONG",
+            "city": "HONG KONG",
+            "branch": "(BANKNOTES DEPARTMENT)",
+            "swift_code": "UOVBHKHHBNS"
+        },
+        {
+            "id": "395",
+            "bank": "UNITED OVERSEAS BANK LTD HONG KONG",
+            "city": "HONG KONG",
+            "branch": "(TRANSACTION BANKING)",
+            "swift_code": "UOVBHKHHCMS"
+        },
+        {
+            "id": "396",
+            "bank": "UNITED OVERSEAS BANK LTD HONG KONG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "UOVBHKHH"
+        },
+        {
+            "id": "397",
+            "bank": "VIETNAM FINANCE COMPANY LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "BFTVHKHH"
+        },
+        {
+            "id": "398",
+            "bank": "VTB CAPITAL HONG KONG LIMITED",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "VTBCHKHK"
+        },
+        {
+            "id": "399",
+            "bank": "WELLS FARGO BANK, N.A., HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": "(FREIGHT FORWARDER)",
+            "swift_code": "PNBPHKHHBDP"
+        },
+        {
+            "id": "400",
+            "bank": "WELLS FARGO BANK, N.A., HONG KONG BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "PNBPHKHH"
+        },
+        {
+            "id": "401",
+            "bank": "WESTPAC BANKING CORPORATION",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "WPACHKHX"
+        },
+        {
+            "id": "402",
+            "bank": "WESTPAC BANKING CORPORATION",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "WPACHKHXTRD"
+        },
+        {
+            "id": "403",
+            "bank": "WING LUNG BANK LTD.",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "WUBAHKHH"
+        },
+        {
+            "id": "404",
+            "bank": "WOORI BANK, HONG KONG",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "HVBKHKHH"
+        },
+        {
+            "id": "405",
+            "bank": "WOOX INNOVATIONS LTD",
+            "city": "SHA TIN",
+            "branch": null,
+            "swift_code": "WOOXHKHH"
+        },
+        {
+            "id": "406",
+            "bank": "ZURICH INSURANCE COMPANY LTD. HK - BRANCH",
+            "city": "HONG KONG",
+            "branch": null,
+            "swift_code": "ZURIHKHH"
+        }
+    ]
+}

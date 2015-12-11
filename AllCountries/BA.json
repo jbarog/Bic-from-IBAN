@@ -1,0 +1,216 @@
+{
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "list": [
+        {
+            "id": "1",
+            "bank": "BANKA SRPSKE A.D. BANJA LUKA",
+            "city": "BANJA LUKA",
+            "branch": null,
+            "swift_code": "BALVBA22"
+        },
+        {
+            "id": "2",
+            "bank": "BOBAR BANKA A.D.",
+            "city": "BIJELJINA",
+            "branch": null,
+            "swift_code": "BATOBA22"
+        },
+        {
+            "id": "3",
+            "bank": "BOR BANKA DD SARAJEVO",
+            "city": "SARAJEVO",
+            "branch": null,
+            "swift_code": "BOIRBA22"
+        },
+        {
+            "id": "4",
+            "bank": "BOSNA BANK INTERNATIONAL DD",
+            "city": "SARAJEVO",
+            "branch": null,
+            "swift_code": "BBIBBA22"
+        },
+        {
+            "id": "5",
+            "bank": "CENTRALNA BANKA BOSNE I HERCEGOVINE",
+            "city": "SARAJEVO",
+            "branch": "(DEPARTMENT FOR PUBLIC DEBT SERVICING)",
+            "swift_code": "CBBSBA22PDS"
+        },
+        {
+            "id": "6",
+            "bank": "CENTRALNA BANKA BOSNE I HERCEGOVINE",
+            "city": "SARAJEVO",
+            "branch": null,
+            "swift_code": "CBBSBA22"
+        },
+        {
+            "id": "7",
+            "bank": "DEVELOPMENT BANK OF THE FEDERATION OF BOSNIA AND HERZEGOVINA",
+            "city": "SARAJEVO",
+            "branch": null,
+            "swift_code": "IBBHBA22"
+        },
+        {
+            "id": "8",
+            "bank": "HYPO ALPE-ADRIA-BANK A.D.",
+            "city": "BANJA LUKA",
+            "branch": null,
+            "swift_code": "HAABBA2B"
+        },
+        {
+            "id": "9",
+            "bank": "HYPO ALPE-ADRIA-BANK D.D.",
+            "city": "MOSTAR",
+            "branch": null,
+            "swift_code": "HAABBA22"
+        },
+        {
+            "id": "10",
+            "bank": "INTESA SANPAOLO BANKA D.D. BOSNA I HERCEGOVINA",
+            "city": "SARAJEVO",
+            "branch": null,
+            "swift_code": "UPBKBA22"
+        },
+        {
+            "id": "11",
+            "bank": "INVESTICIONO - KOMERCIJALNA BANKA DD ZENICA",
+            "city": "ZENICA",
+            "branch": null,
+            "swift_code": "IKBZBA2X"
+        },
+        {
+            "id": "12",
+            "bank": "KOMERCIJALNA BANKA AD BANJA LUKA",
+            "city": "BANJA LUKA",
+            "branch": null,
+            "swift_code": "KOBBBA22"
+        },
+        {
+            "id": "13",
+            "bank": "KOMERCIJALNO-INVESTICIONA BANKA DD VELIKA KLADUSA",
+            "city": "VELIKA KLADUSA",
+            "branch": null,
+            "swift_code": "KINBBA22"
+        },
+        {
+            "id": "14",
+            "bank": "MF BANKA A.D. BANJA LUKA",
+            "city": "BANJA LUKA",
+            "branch": null,
+            "swift_code": "MFBLBA22"
+        },
+        {
+            "id": "15",
+            "bank": "MOJA BANKA DD SARAJEVO",
+            "city": "SARAJEVO",
+            "branch": null,
+            "swift_code": "FMBABA22"
+        },
+        {
+            "id": "16",
+            "bank": "NLB BANKA D.D., TUZLA",
+            "city": "TUZLA",
+            "branch": null,
+            "swift_code": "TBTUBA22"
+        },
+        {
+            "id": "17",
+            "bank": "NLB RAZVOJNA BANKA A.D. BANJA LUKA",
+            "city": "BANJA LUKA",
+            "branch": null,
+            "swift_code": "RAZBBA22"
+        },
+        {
+            "id": "18",
+            "bank": "NOVA BANKA AD BANJALUKA",
+            "city": "BANJA LUKA",
+            "branch": null,
+            "swift_code": "NOBIBA22"
+        },
+        {
+            "id": "19",
+            "bank": "PAVLOVIC INTERNATIONAL BANK A.D.",
+            "city": "BIJELJINA",
+            "branch": null,
+            "swift_code": "PAVLBA22"
+        },
+        {
+            "id": "20",
+            "bank": "PRIVREDNA BANKA SARAJEVO DD",
+            "city": "SARAJEVO",
+            "branch": null,
+            "swift_code": "PBSCBA22"
+        },
+        {
+            "id": "21",
+            "bank": "PROCREDIT BANK D.D. SARAJEVO, BOSNIA AND HERZEGOVINA",
+            "city": "SARAJEVO",
+            "branch": null,
+            "swift_code": "MEBBBA22"
+        },
+        {
+            "id": "22",
+            "bank": "RAIFFEISEN BANK D.D. BOSNA I HERCEGOVINA",
+            "city": "SARAJEVO",
+            "branch": null,
+            "swift_code": "RZBABA2S"
+        },
+        {
+            "id": "23",
+            "bank": "SBERBANK A.D. BANJA LUKA",
+            "city": "BANJA LUKA",
+            "branch": null,
+            "swift_code": "SABRBA2B"
+        },
+        {
+            "id": "24",
+            "bank": "SBERBANK BH D.D., SARAJEVO",
+            "city": "SARAJEVO",
+            "branch": null,
+            "swift_code": "SABRBA22"
+        },
+        {
+            "id": "25",
+            "bank": "SPARKASSE BANK DD BIH",
+            "city": "SARAJEVO",
+            "branch": null,
+            "swift_code": "ABSBBA22"
+        },
+        {
+            "id": "26",
+            "bank": "UNICREDIT BANK",
+            "city": "MOSTAR",
+            "branch": null,
+            "swift_code": "UNCRBA22"
+        },
+        {
+            "id": "27",
+            "bank": "UNICREDIT BANK A.D. BANJA LUKA (FORMER NOVA BANJALUCKA BANKA A.D. BANJA LUKA)",
+            "city": "BANJA LUKA",
+            "branch": null,
+            "swift_code": "BLBABA22"
+        },
+        {
+            "id": "28",
+            "bank": "UNION BANKA D.D. SARAJEVO",
+            "city": "SARAJEVO",
+            "branch": null,
+            "swift_code": "UBKSBA22"
+        },
+        {
+            "id": "29",
+            "bank": "VAKUFSKA BANKA DD SARAJEVO",
+            "city": "SARAJEVO",
+            "branch": null,
+            "swift_code": "VAKUBA22"
+        },
+        {
+            "id": "30",
+            "bank": "ZIRAATBANK BH D.D. SARAJEVO",
+            "city": "SARAJEVO",
+            "branch": null,
+            "swift_code": "TZBBBA22"
+        }
+    ]
+}

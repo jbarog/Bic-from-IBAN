@@ -1,0 +1,13 @@
+{
+    "country": "Saint Pierre and Miquelon",
+    "country_code": "PM",
+    "list": [
+        {
+            "id": "1",
+            "bank": "BANQUE DE SAINT-PIERRRE ET MIQUELON",
+            "city": "SAINT PIERRE ET MIQUELON",
+            "branch": null,
+            "swift_code": "BDILPMPM"
+        }
+    ]
+}
