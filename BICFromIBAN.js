@@ -14,8 +14,9 @@ function getBIC(iban) {
 
         var item = banks.list.find((d) => {
             return d.id === bankCode
-        })
-        return item.swift_code;
+        });
+        
+        return item == undefined ? "" : item.swift_code.concat("XXXXXXXXXXX").substring(0,11);
     } else {
         return "";
     }
