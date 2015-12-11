@@ -19,3 +19,5 @@ Get a BIC(SWIFT) bank code from IBAN account number
   // Return a String with a Bic code
   var BIC = BICFromIBAN.getBIC("DZ4000400174401001050486");
 ```
+
+The bank information is https://github.com/PeterNotenboom/SwiftCodes
