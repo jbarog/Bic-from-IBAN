@@ -3,25 +3,32 @@
     "country_code": "GU",
     "list": [
         {
-            "id": "1",
+            "id": 1,
+            "bank": "ALLIED BANKING CORPORATION",
+            "city": "TAMUNING",
+            "branch": null,
+            "swift_code": "ABCMGUG1"
+        },
+        {
+            "id": 2,
             "bank": "ANZ GUAM, INC.",
             "city": "AGANA",
             "branch": null,
             "swift_code": "ANZBGUGG"
         },
         {
-            "id": "2",
+            "id": 3,
             "bank": "BANK OF GUAM",
             "city": "AGANA",
             "branch": null,
             "swift_code": "GMBKGUGU"
         },
         {
-            "id": "3",
-            "bank": "CITIBANK N.A. GUAM",
+            "id": 4,
+            "bank": "BANK OF NAURU",
             "city": "AGANA",
             "branch": null,
-            "swift_code": "CITIGUGX"
+            "swift_code": "BNAUGUG1"
         }
     ]
 }
