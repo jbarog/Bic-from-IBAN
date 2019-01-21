@@ -15,10 +15,32 @@ function getBIC(iban) {
         var item = banks.list.find((d) => {
             return d.id === bankCode
         });
-        
+
         return item == undefined ? "" : item.swift_code.concat("XXXXXXXXXXX").substring(0,11);
     } else {
         return "";
+    }
+}
+
+/**
+ * getBankInfo Return full object from JSON data
+ *
+ * @param iban     The IBAN account.
+ * @return         Bank information
+ */
+function getBankInfo(iban) {
+    if (validateIBAN(iban)) {
+        var country = iban.substring(0, 2);
+        var banks = require("./AllCountries/" + country + ".json");
+        var bankCode = iban.substring(4, 8).replace(/^0+/, '');
+
+        var item = banks.list.find((d) => {
+            return d.id === bankCode
+        });
+
+        return item;
+    } else {
+        return false;
     }
 }
 
@@ -70,8 +92,9 @@ function _replaceChars(str) {
 }
 
 var exports = {
-    validateIBAN: validateIBAN,
-    getBIC: getBIC
+    getBankInfo: getBankInfo,
+    getBIC: getBIC,
+    validateIBAN: validateIBAN
 }
 
 module.exports = exports;
