@@ -1,5 +1,5 @@
 {
-    "name": "bic-from-iban-2018",
+    "name": "bank-info-from-iban-2018",
     "version": "1.0.1",
     "main": "BICFromIBAN.js"
 }
