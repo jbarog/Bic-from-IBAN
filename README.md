@@ -1,23 +1,42 @@
-# Bic(SWIFT) from Iban
-Generate BIC(SWIFT) from IBAN bank account number
+# Bank from Iban
+Get bank data from IBAN bank account number
 
 
-Validating an IBAN 
+Validating an IBAN
 ------------------
 ```javascript
-  var BICFromIBAN = require ("BICFromIBAN");
-  
-  // Return true if the IBAN is a correct banck account 
-  var isValid = BICFromIBAN.validateIBAN("DZ4000400174401001050486");
+  var BankFromIBAN = require ("BankFromIBAN");
+
+  // Return true if the IBAN is a correct bank account
+  var isValid = BankFromIBAN.validateIBAN("DZ4000400174401001050486");
 ```
 
-Get a BIC(SWIFT) bank code from IBAN account number 
+Get a BIC(SWIFT) bank code from IBAN account number
 ---------------------------------------------------
 ```javascript
-  var BICFromIBAN = require ("BICFromIBAN");
-  
+  var BankFromIBAN = require ("BankFromIBAN");
+
   // Return a String with a Bic code
-  var BIC = BICFromIBAN.getBIC("DZ4000400174401001050486");
+  var bic = BankFromIBAN.getBIC("DZ4000400174401001050486");
+```
+
+Get bank data from IBAN account number
+---------------------------------------------------
+```javascript
+  var BankFromIBAN = require ("BankFromIBAN");
+
+  // Return a String with a Bic code
+  var bankInfo = BankFromIBAN.getBankInfo("DZ4000400174401001050486");
+  /*
+  {
+    "id": 1,
+    "bank": "ANDORRA BANC AGRICOL REIG S.A.",
+    "city": "LES ESCALDES",
+    "branch": null,
+    "swift_code": "BACAADAD"
+  },
+  */
+
 ```
 
 The bank information is https://github.com/PeterNotenboom/SwiftCodes
