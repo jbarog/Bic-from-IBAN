@@ -6,43 +6,54 @@
  * @param iban     The IBAN account.
  * @return         The Bic(SWIFT) Code
  */
-function getBIC(iban) {
-    if (validateIBAN(iban)) {
-        var country = iban.substring(0, 2);
-        var banks = require("./AllCountries/" + country + ".json");
-        var bankCode = iban.substring(4, 8).replace(/^0+/, '');
+ function getBIC(iban) {
+     if (validateIBAN(iban)) {
+         var country = iban.substring(0, 2);
+         var banks = require("./AllCountries/" + country + ".json");
+         var bankCode = iban.substring(4, 8).replace(/^0+/, '');
 
-        var item = banks.list.find((d) => {
-            return d.id === bankCode
-        });
+         var item = banks.list.find((d) => {
+             return d.id === bankCode
+         });
 
-        return item == undefined ? "" : item.swift_code.concat("XXXXXXXXXXX").substring(0,11);
-    } else {
-        return "";
-    }
-}
+         return item == undefined ? "" : item.swift_code.concat("XXXXXXXXXXX").substring(0,11);
+     } else {
+         return "";
+     }
+ }
 
-/**
- * getBankInfo Return full object from JSON data
- *
- * @param iban     The IBAN account.
- * @return         Bank information
- */
-function getBankInfo(iban) {
-    if (validateIBAN(iban)) {
-        var country = iban.substring(0, 2);
-        var banks = require("./AllCountries/" + country + ".json");
-        var bankCode = iban.substring(4, 8).replace(/^0+/, '');
+ /**
+  * getBankInfo Return full object from JSON data
+  *
+  * @param iban     The IBAN account.
+  * @return         Bank information
+  */
+ function getBankInfo(iban) {
+     if (validateIBAN(iban)) {
+         var country = iban.substring(0, 2);
+         var banks = require("./AllCountries/" + country + ".json");
+         var bankCode = parseInt(iban.substring(4, 8).replace(/^0+/, ''));
+         var item = banks.list.find((d) => {
+             return d.id === bankCode
+         });
+         if(item) {
+           item['bic'] = parse2BIC(item.swift_code);
+         }
+         return item;
+     } else {
+         return false;
+     }
+ }
 
-        var item = banks.list.find((d) => {
-            return d.id === bankCode
-        });
-
-        return item;
-    } else {
-        return false;
-    }
-}
+ /**
+  * BIC formatter
+  *
+  * @param str     The swift code as a string.
+  * @return        The formatted string.
+  */
+ function parse2BIC(str) {
+     return str.concat("XXXXXXXXXXX").substring(0,11);;
+ }
 
 /**
  * mod97 function for large numbers
