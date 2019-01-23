@@ -25,7 +25,6 @@ function getBankInfo(iban, country) {
     if (!country || country == ibanCountry) {
       var banks = require("./AllCountries/" + ibanCountry + ".json");
       var bankCode = parseInt(iban.substring(4, 8).replace(/^0+/, ''));
-      console.log(bankCode);
       var item = banks.list.find((d) => {
         return d.id === bankCode
       });
